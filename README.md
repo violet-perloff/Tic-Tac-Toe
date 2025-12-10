@@ -2,6 +2,9 @@
 ## Author: Violet S. Perloff
 
 ### Contents:
-####    - Classes
-    
+####    - Classes:
+#####       - TicTacToe
+#####       - Mark
+#####       - Coordinates
+
 
