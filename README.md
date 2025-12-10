@@ -2,9 +2,13 @@
 ## Author: Violet S. Perloff
 
 ### Contents:
-####    - Classes:
-#####       - TicTacToe
-#####       - Mark
-#####       - Coordinates
+    - Classes:
+        - TicTacToe
+
+        - Mark
+
+        - Coordinates
+
+        - Computer Response
 
 
